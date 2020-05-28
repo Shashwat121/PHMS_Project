@@ -1,5 +1,3 @@
-#Website link for Patient Health Monitoring System:
-www.healthmonitoring101.in
 
 # PHMS_Project
 This project is known as Patient Health Monitoring System (PHMS). It is built on the LAMP stack and uses Python 2.7.13 as the backend 
