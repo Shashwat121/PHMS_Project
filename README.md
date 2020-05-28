@@ -18,7 +18,7 @@ until the patient is connected to the portal.
 The health data gets stored in the MySQL database for long term usage and reference both by the 
 patients and the doctor.
 
-The patients can even see their medical prescriptions prescribed by their doctors, Download their past health monitoring records,
+The patients can even see their medical prescriptions prescribed by their doctors, download their past health monitoring records,
 Book Appointments for health monitoring with the concerned doctor. The doctors and patients can even chat by using an online chat
 application integrated into PHMS portal. The patients and doctors can even take part in Video Conferencing. The patients and doctors can
 even lodge complaints and queries related to the PHMS portal in general which will be resolved by an administrator at it's earliest. 
