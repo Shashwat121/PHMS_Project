@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 $cssVersion = rand();
 
-include("hms/include/config.php");
+include("phms/include/config.php");
 $vari = 0;
 $log=mysqli_query($con,"update userlog set log_state='$vari' where uid='$vari'");
 ?>
