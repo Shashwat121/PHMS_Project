@@ -1,4 +1,5 @@
-----------IMPORTANT---------
+# ----------------IMPORTANT---------------
+
 The website is down as of July 2020 and will remain the same for the upcoming days. If you want to try out the functionalities, clone the repo and work on a local
 LAMP/XAMPP/MAMP/WAMP server. Thanks!
 
