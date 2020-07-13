@@ -1,5 +1,11 @@
+----------IMPORTANT---------
+The website is down as of July 2020 and will remain the same for the upcoming days. If you want to try out the functionalities, clone the repo and work on a local
+LAMP/XAMPP/MAMP/WAMP server. Thanks!
+
+
 #Website link for Patient Health Monitoring System:
 www.healthmonitoring101.in
+
 
 # PHMS_Project
 This project is known as Patient Health Monitoring System (PHMS). It is built on the LAMP stack and uses Python 2.7.13 as the backend 
